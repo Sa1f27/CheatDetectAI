@@ -1,0 +1,48 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and debug files
+logs/
+*.log
+nohup.out
+
+# Model and weight files
+yolo-models/*.pt
+*.onnx
+*.pth
+*.h5
+
+# Video files
+videos/*.mp4
+videos/*.avi
+videos/*.mov
+
+# API keys and credentials
+.env
+config.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.bak

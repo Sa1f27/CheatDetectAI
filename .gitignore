@@ -25,15 +25,14 @@ logs/
 nohup.out
 
 # Model and weight files
-yolo-models/*.pt
+*.pt
 *.onnx
 *.pth
 *.h5
 
 # Video files
-videos/*.mp4
-videos/*.avi
-videos/*.mov
+*.mp4
+
 
 # API keys and credentials
 .env

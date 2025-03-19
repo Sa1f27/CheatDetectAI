@@ -1,0 +1,36 @@
+[2025-03-19 15:28:05] (+0.5s) INFO: Starting audio monitoring...
+[2025-03-19 15:28:06] (+1.8s) INFO: Starting screen monitoring...
+[2025-03-19 15:28:06] (+1.8s) INFO: Starting clipboard monitoring...
+[2025-03-19 15:28:06] (+1.8s) INFO: Suspicious active window: 'app.py - yolo-app - Visual Studio Code'
+[2025-03-19 15:28:06] (+1.8s) INFO: Video file not found. Starting live camera interview...
+[2025-03-19 15:28:08] (+3.8s) INFO: Suspicious active window: 'app.py - yolo-app - Visual Studio Code'
+[2025-03-19 15:28:08] (+4.0s) INFO: Blink detected. Total blinks: 1
+[2025-03-19 15:28:08] (+4.0s) INFO: Abnormal head pose: pitch=-176.44, yaw=-0.96, roll=-8.89
+[2025-03-19 15:28:10] (+5.8s) INFO: Suspicious active window: 'app.py - yolo-app - Visual Studio Code'
+[2025-03-19 15:28:11] (+6.6s) INFO: Abnormal head pose: pitch=-174.19, yaw=-9.71, roll=-6.78
+[2025-03-19 15:28:12] (+7.4s) INFO: Blink detected. Total blinks: 2
+[2025-03-19 15:28:12] (+7.4s) INFO: Abnormal head pose: pitch=-179.57, yaw=-11.71, roll=-7.84
+[2025-03-19 15:28:12] (+7.8s) INFO: Suspicious active window: 'app.py - yolo-app - Visual Studio Code'
+[2025-03-19 15:28:12] (+8.3s) INFO: Abnormal head pose: pitch=-178.02, yaw=-11.42, roll=-8.17
+[2025-03-19 15:28:13] (+9.1s) INFO: Abnormal head pose: pitch=-177.89, yaw=-12.43, roll=-8.46
+[2025-03-19 15:28:14] (+9.8s) INFO: Suspicious active window: 'app.py - yolo-app - Visual Studio Code'
+[2025-03-19 15:28:14] (+10.2s) INFO: Abnormal head pose: pitch=-172.87, yaw=-6.96, roll=-5.60
+[2025-03-19 15:28:15] (+10.8s) INFO: Clipboard changed: 'while True:
+        current_value = pyperclip.pas...'
+[2025-03-19 15:28:15] (+11.2s) INFO: Abnormal head pose: pitch=-172.60, yaw=-12.86, roll=-6.52
+[2025-03-19 15:28:16] (+11.8s) INFO: Suspicious active window: 'app.py - yolo-app - Visual Studio Code'
+[2025-03-19 15:28:16] (+12.1s) INFO: Blink detected. Total blinks: 3
+[2025-03-19 15:28:16] (+12.1s) INFO: Abnormal head pose: pitch=-174.00, yaw=-13.57, roll=-6.55
+[2025-03-19 15:28:17] (+13.2s) INFO: Abnormal head pose: pitch=-161.48, yaw=-6.23, roll=174.39
+[2025-03-19 15:28:18] (+13.8s) INFO: Suspicious active window: 'app.py - yolo-app - Visual Studio Code'
+[2025-03-19 15:28:18] (+14.2s) INFO: Abnormal head pose: pitch=-170.24, yaw=-14.40, roll=-4.62
+[2025-03-19 15:28:19] (+15.2s) INFO: Abnormal head pose: pitch=-172.96, yaw=-12.53, roll=-3.70
+[2025-03-19 15:28:20] (+15.8s) INFO: Suspicious active window: 'app.py - yolo-app - Visual Studio Code'
+[2025-03-19 15:28:21] (+16.3s) INFO: Blink detected. Total blinks: 4
+[2025-03-19 15:28:21] (+16.3s) INFO: Abnormal head pose: pitch=-179.61, yaw=1.18, roll=-5.62
+[2025-03-19 15:28:22] (+17.3s) INFO: Abnormal head pose: pitch=-179.81, yaw=-5.85, roll=-7.36
+[2025-03-19 15:28:22] (+18.3s) INFO: Suspicious active window: 'Live Interview Cheating Detection'
+[2025-03-19 15:28:22] (+18.3s) INFO: Live camera capture terminated by user.
+[2025-03-19 15:28:23] (+18.6s) INFO: Processed 12 frames from camera in 15.11 seconds
+[2025-03-19 15:28:23] (+18.6s) INFO: Analysis complete. Collected logs:
+[2025-03-19 15:28:23] (+18.6s) INFO: Performing LLM-based cheating analysis...

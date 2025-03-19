@@ -5,6 +5,8 @@ __pycache__/
 *.pyd
 *.pyo
 
+
+
 # Virtual environment
 venv/
 env/
@@ -33,7 +35,7 @@ nohup.out
 # Video files
 *.mp4
 
-
+app-copy.py
 # API keys and credentials
 .env
 config.json
